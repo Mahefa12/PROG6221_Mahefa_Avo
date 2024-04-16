@@ -1,0 +1,15 @@
+/Users/mahefanyavo/Desktop/VC 2024 bachelor year 2/PROG6221/PROG6221_POE_PART1/PROG6221_POE_PART1/bin/Debug/net6.0/PROG6221_POE_PART1
+/Users/mahefanyavo/Desktop/VC 2024 bachelor year 2/PROG6221/PROG6221_POE_PART1/PROG6221_POE_PART1/bin/Debug/net6.0/PROG6221_POE_PART1.deps.json
+/Users/mahefanyavo/Desktop/VC 2024 bachelor year 2/PROG6221/PROG6221_POE_PART1/PROG6221_POE_PART1/bin/Debug/net6.0/PROG6221_POE_PART1.runtimeconfig.json
+/Users/mahefanyavo/Desktop/VC 2024 bachelor year 2/PROG6221/PROG6221_POE_PART1/PROG6221_POE_PART1/bin/Debug/net6.0/PROG6221_POE_PART1.dll
+/Users/mahefanyavo/Desktop/VC 2024 bachelor year 2/PROG6221/PROG6221_POE_PART1/PROG6221_POE_PART1/bin/Debug/net6.0/PROG6221_POE_PART1.pdb
+/Users/mahefanyavo/Desktop/VC 2024 bachelor year 2/PROG6221/PROG6221_POE_PART1/PROG6221_POE_PART1/obj/Debug/net6.0/PROG6221_POE_PART1.csproj.AssemblyReference.cache
+/Users/mahefanyavo/Desktop/VC 2024 bachelor year 2/PROG6221/PROG6221_POE_PART1/PROG6221_POE_PART1/obj/Debug/net6.0/PROG6221_POE_PART1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mahefanyavo/Desktop/VC 2024 bachelor year 2/PROG6221/PROG6221_POE_PART1/PROG6221_POE_PART1/obj/Debug/net6.0/PROG6221_POE_PART1.AssemblyInfoInputs.cache
+/Users/mahefanyavo/Desktop/VC 2024 bachelor year 2/PROG6221/PROG6221_POE_PART1/PROG6221_POE_PART1/obj/Debug/net6.0/PROG6221_POE_PART1.AssemblyInfo.cs
+/Users/mahefanyavo/Desktop/VC 2024 bachelor year 2/PROG6221/PROG6221_POE_PART1/PROG6221_POE_PART1/obj/Debug/net6.0/PROG6221_POE_PART1.csproj.CoreCompileInputs.cache
+/Users/mahefanyavo/Desktop/VC 2024 bachelor year 2/PROG6221/PROG6221_POE_PART1/PROG6221_POE_PART1/obj/Debug/net6.0/PROG6221_POE_PART1.dll
+/Users/mahefanyavo/Desktop/VC 2024 bachelor year 2/PROG6221/PROG6221_POE_PART1/PROG6221_POE_PART1/obj/Debug/net6.0/refint/PROG6221_POE_PART1.dll
+/Users/mahefanyavo/Desktop/VC 2024 bachelor year 2/PROG6221/PROG6221_POE_PART1/PROG6221_POE_PART1/obj/Debug/net6.0/PROG6221_POE_PART1.pdb
+/Users/mahefanyavo/Desktop/VC 2024 bachelor year 2/PROG6221/PROG6221_POE_PART1/PROG6221_POE_PART1/obj/Debug/net6.0/PROG6221_POE_PART1.genruntimeconfig.cache
+/Users/mahefanyavo/Desktop/VC 2024 bachelor year 2/PROG6221/PROG6221_POE_PART1/PROG6221_POE_PART1/obj/Debug/net6.0/ref/PROG6221_POE_PART1.dll
